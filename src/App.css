@@ -1,0 +1,11 @@
+.timer{
+  font-size: 100px;
+}
+div>h6{
+  font-size: 20px;
+}
+.names{
+  display: flex;
+  width:380px;
+  justify-content: space-around
+}
